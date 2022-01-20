@@ -1070,6 +1070,10 @@ div .social{
     color: #ffffff !important;
 }
 
+.margin-bottom{
+    margin-bottom: 10px;
+}
+
 .img-responsive{
     width: 100%;
 }
