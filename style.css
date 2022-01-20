@@ -1078,4 +1078,9 @@ div .social{
     width: 100%;
 }
 
+.row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
 /* END MODIFICATION FOR THE PROJECT*/
