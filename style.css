@@ -361,27 +361,7 @@ a:hover {
     position: relative;
     z-index: 2;
 }
-/* MODIFICATION FOR THE PROJECT */
 
-.blockquote-paragraphe{
-    border-left-width: 0;
-    margin-bottom: 0;
-    padding: 0;
-}
-
-.quote-paragraphe{
-    font-size: 20px;
-}
-
-.realisation-title{
-    margin: 0;
-}
-
-div .social{
-    margin: 25px auto 25px auto;
-}
-
-/* END MODIFICATION FOR THE PROJECT*/
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -1065,3 +1045,29 @@ h4 {
         text-align: center;
     }
 }
+
+/* MODIFICATION FOR THE PROJECT */
+
+.blockquote-paragraphe{
+    border-left-width: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.quote-paragraphe{
+    font-size: 20px;
+}
+
+.realisation-title{
+    margin: 0;
+}
+
+div .social{
+    margin: 25px auto 25px auto;
+}
+
+.correction-focus{
+    position: relative;
+}
+
+/* END MODIFICATION FOR THE PROJECT*/
