@@ -1078,9 +1078,9 @@ div .social{
     width: 100%;
 }
 
-.row{
-    margin-left: 0 !important;
-    margin-right: 0 !important;
+.row-corrected{
+    margin-left: 0;
+    margin-right: 0;
 }
 
 /* END MODIFICATION FOR THE PROJECT*/
