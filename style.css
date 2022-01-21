@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .68);
 }
 
 .d-bloc .panel button:hover,
@@ -1066,8 +1066,21 @@ div .social{
     position: relative;
 }
 
-.link-white{
+.link-white,
+.col-sm-4{
     color: #ffffff !important;
+}
+
+.list-elements{
+    margin-top: 10px;
+}
+
+.no-underline{
+    text-decoration: none;
+}
+
+.no-underline:hover{
+    color: #202946 !important;
 }
 
 .margin-bottom{
