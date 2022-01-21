@@ -1087,8 +1087,9 @@ div .social{
     margin-bottom: 10px;
 }
 
-.img-responsive{
-    width: 100%;
+a.link-center{
+    display: flex;
+    justify-content: center;
 }
 
 .row-corrected{
